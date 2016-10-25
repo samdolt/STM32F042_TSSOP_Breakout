@@ -1,0 +1,2 @@
+# STM32F042_TSSOP_Breakout
+STM32F042Gx or STM32F042Fx Breakout Board
